@@ -31,8 +31,3 @@ By turning debris into value, Orbital Reclaimer addresses one of the most pressi
 ## 🌌 Mission & Impact
 
 Orbital Reclaimer isn’t just a piece of hardware — it’s a step toward **responsible orbital behavior** and a **profitable space economy**. It helps reduce operational costs, supports in-space manufacturing, and enables long-term sustainability for Low Earth Orbit missions.
-
----
-
-## 📂 Repository Structure
-
