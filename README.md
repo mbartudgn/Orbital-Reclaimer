@@ -2,7 +2,6 @@
 
 **An Innovative ISS-Based Module for Capturing and Repurposing Space Debris**
 
-![Orbital Reclaimer Concept](./images/cover.jpg) <!-- Varsa bir görsel buraya -->
 
 ## 🚀 Overview
 
